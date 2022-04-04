@@ -11,4 +11,4 @@ Use MCP4151_0 if the device is conneced to the Chipselect 0 (CE0) and the MCP415
 The values range from 0 to 255 (8-Bit)
 
 ## Extra
-In the repo you will also find the HydraSpex.lbr EagleLibrary that contains the MCP4151 for your Eagle project.
+In the repo you will find the Datasheet for the MCP413X/415X/423X/425X series and also the HydraSpex.lbr EagleLibrary that contains the MCP4151 for your Eagle project.
