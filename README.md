@@ -4,7 +4,7 @@ It is designed to work on a Raspberry Pi and requires Python 3.
 
 
 ## Installation
-Just copy the Library in your Project Folder.
+Just copy the Library (MCP4151_lib.py) in your Project Folder.
 
 ## Usage
 Use MCP4151_0 if the device is conneced to the Chipselect 0 (CE0) and the MCP4151_1 if it is connected to CE1.
